@@ -4,4 +4,4 @@ The package includes 722 leetcode problems, with some detailed info shown on the
   
 For more information, please visit [Leetcode](https://leetcode.com) and [Anki](https://ankiweb.net/).
   
-Made by a cainian
+Made by a cainiao
