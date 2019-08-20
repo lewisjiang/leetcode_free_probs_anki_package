@@ -1,4 +1,5 @@
-# leetcode free problems in anki package
+# Leetcode Free Problems in Anki Package
+### Introduction
 Leetcode free problems (to No. 891.Sum of Subsequence Widths)  
 The package includes 722 leetcode problems, with some detailed info shown on the front card(e.g. ac rate, thumb-ups etc.), and 2 top-rated solutions from the discussion area on the back card.
   
@@ -8,5 +9,8 @@ Sample screenshot:
 <img src="https://github.com/lewisjiang/leetcode_free_probs_anki_package/blob/master/Screenshot_20180918-183549_AnkiDroid.jpg" width="405" height="1661">
   
 <img src="https://github.com/lewisjiang/leetcode_free_probs_anki_package/blob/master/Screenshot_20180919-112008_AnkiDroid.jpg" width="405" height="1198">
+
+### Known issues
+1. No soft wrap for code blocks.
 
 Made by a cainiao
